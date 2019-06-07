@@ -1,4 +1,3 @@
-# [Transcribing DNA into RNA](http://rosalind.info/problems/rna)
 def f(t):
     if len(t) <= 1000:
         u = t.replace('T','U')
